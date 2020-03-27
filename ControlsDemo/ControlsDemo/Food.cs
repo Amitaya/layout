@@ -15,4 +15,9 @@ namespace ControlsDemo
 
         public string Type { set; get; }
     }
+
+    public class Todd
+    {
+        public int ID { set; get; }
+    }
 }
