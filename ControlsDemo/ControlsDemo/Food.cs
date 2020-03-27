@@ -20,4 +20,6 @@ namespace ControlsDemo
     {
         public int ID { set; get; }
     }
+
+    public class Meda { }
 }
