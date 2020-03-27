@@ -3,3 +3,7 @@
 ################################################################################
 
 /ControlsDemo/ControlsDemo.Android/obj
+/ControlsDemo/ControlsDemo.Android/bin/Debug
+/ControlsDemo/ControlsDemo/bin/Debug/netstandard2.0
+/ControlsDemo/ControlsDemo/obj
+/.vs/ControlsDemo/v16/Server/sqlite3

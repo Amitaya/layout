@@ -29,5 +29,11 @@ namespace ControlsDemo.Droid
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
+
+        protected override void OnStart()
+        {
+            base.OnStart();
+        }
+
     }
 }
